@@ -1,34 +1,6 @@
 SQL Experiments Repository
 A collection of SQL database experiments, with experiment-wise folders containing practical write-ups, SQL scripts (where applicable), and PDF records. The repository progresses from database design and relational constraints to analytical queries and advanced SQL features.
 
-Repository Structure
-.
-├── README.md
-├── Experiment 1/
-│   ├── README.md
-│   └── experiment 1.pdf
-├── Experiment 2/
-│   ├── Ex2.sql
-│   ├── README.md
-│   └── experiment 2.pdf
-├── Experiment 3/
-│   ├── Ex3.sql
-│   ├── README.md
-│   └── experiment 3.pdf
-├── Experiment 4/
-│   ├── Ex4.sql
-│   ├── README.md
-│   └── experiment 4.pdf
-├── Experiment 5/
-│   ├── Ex5.sql
-│   ├── README.md
-│   └── experiment 5.pdf
-└── Experiment 6/
-    ├── Ex6.sql
-    ├── README.md
-    └── experiment 6.pdf
-
-The tree above is a guide based on the repository's experiment folders and the visible file names. Keep each folder's actual file names as they appear in your repository. If a script is not present for an experiment, use the SQL included in its README or practical record where available.
 
 Experiments at a Glance
 Experiment	Main subject	What it covers
